@@ -9,5 +9,4 @@ Features:
 
 Images:
 
-
-[image](https://github.com/BaconzDevelopment/Skript-ChatFormat-/assets/139022800/55e3be31-f230-43d0-8597-9274262097f5)
+![image](https://github.com/BaconzDevelopment/Skript-ChatFormat-/assets/139022800/55e3be31-f230-43d0-8597-9274262097f5)
