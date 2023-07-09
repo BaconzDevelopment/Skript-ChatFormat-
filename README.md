@@ -1,6 +1,6 @@
 
 ## Download
-You can find the downloads for each version with their release notes in the [releases page](https://github.com/SkriptLang/Skript/releases).
+You can find the downloads for each version with their release notes in the [releases page](https://github.com/BaconzDevelopment/Skript-ChatFormat-/releases/tag/1.0.0).
 
 
 
